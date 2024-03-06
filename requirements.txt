@@ -1,4 +1,4 @@
---upgrade setuptools pkg_resources
+setuptools==69.0.3
 numpy
 fastapi==0.109.0
 uvicorn==0.25.0
